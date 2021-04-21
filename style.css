@@ -13,3 +13,7 @@ h1 {
 ul li {
   list-style-type: disc;
 }
+
+ol ul li {
+  color: green;
+}
